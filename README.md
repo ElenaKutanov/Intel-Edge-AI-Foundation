@@ -7,3 +7,9 @@
 - Lesson 3.7-3.11 completed ✔️
 I would like to encourage @Mariia and @Aleksandra Deis to take part in the #30_days_udacity.
 ---------------------------
+
+28.12.2019 Day 2.
+
+- Lesson 3.12-3.17 completed ✔️
+I would like to encourage @Mariia and @Akash Antony to keep going! #30_days_udacity.
+---------------------------
