@@ -16,6 +16,12 @@ I would like to encourage @Mariia and @Akash Antony to keep going! #30_days_udac
 
 29.12.2019 Day 3.
 
-- Lesson 3.18 in progress ✔️
+- Lesson 3.18 in progress
 I would like to encourage @Aleksandra Deis and @Jess to keep going! #30_days_udacity.
+---------------------------
+
+30.12.2019 Day 4.
+
+- Lesson 3 completed ✔️
+I would like to encourage @Mariia and @Akash Antony to keep going! #30_days_udacity.
 ---------------------------
