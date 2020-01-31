@@ -30,5 +30,5 @@ I would like to encourage @Mariia and @Akash Antony to keep going! #30_days_udac
 
 - Lesson 4.1-4.4 completed ✔️
 - Lesson 4.5 in progress
-I would like to encourage @Mariia and @Akash Antony to keep going! #30_days_udacity.
+I would like to encourage @Nancy Al Aswad and @Parth Vyas to keep going! #30_days_udacity.
 ---------------------------
