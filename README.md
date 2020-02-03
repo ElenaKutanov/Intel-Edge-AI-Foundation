@@ -35,6 +35,19 @@ I would like to encourage @Nancy Al Aswad and @Parth Vyas to keep going! #30_day
 
 01.02.2019 Day 6.
 
-- Lesson 4.5-4.9 completed ✔️
+- Lesson 4.5-4.8 completed ✔️
 I would like to encourage @Ankit Vashisht and @Bappi to keep going! #30_days_udacity.
+---------------------------
+
+02.02.2019 Day 7.
+
+- Worked on 4.9-4.10
+I would like to encourage @Nimish Jain and @Shashank Yadav to keep going! #30_days_udacity.
+---------------------------
+
+03.02.2019 Day 8.
+
+- Lesson 4.11-4.12 completed ✔️
+- Lesson 4.13 in progress
+I would like to encourage @Nimish Jain and @Anshu Trivedi to keep going! #30_days_udacity.
 ---------------------------
