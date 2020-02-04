@@ -51,3 +51,9 @@ I would like to encourage @Nimish Jain and @Shashank Yadav to keep going! #30_da
 - Lesson 4.13 in progress
 I would like to encourage @Nimish Jain and @Anshu Trivedi to keep going! #30_days_udacity.
 ---------------------------
+
+04.02.2019 Day 9.
+
+- Lesson 4.13-4.14 completed ✔️
+I would like to encourage @Karl Breitkopf and @Mariia to keep going! #30_days_udacity.
+---------------------------
