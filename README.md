@@ -57,3 +57,9 @@ I would like to encourage @Nimish Jain and @Anshu Trivedi to keep going! #30_day
 - Lesson 4.13-4.14 completed ✔️
 I would like to encourage @Karl Breitkopf and @Mariia to keep going! #30_days_udacity.
 ---------------------------
+
+05.02.2019 Day 10.
+
+- Lesson 4 completed ✔️
+I would like to encourage @Andrey Belov and @Aleksandra Deis to keep going! #30_days_udacity.
+---------------------------
