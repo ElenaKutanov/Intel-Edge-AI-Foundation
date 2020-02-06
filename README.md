@@ -63,3 +63,11 @@ I would like to encourage @Karl Breitkopf and @Mariia to keep going! #30_days_ud
 - Lesson 4 completed ✔️
 I would like to encourage @Andrey Belov and @Aleksandra Deis to keep going! #30_days_udacity.
 ---------------------------
+
+06.02.2019 Day 11.
+
+- Lesson 5.1-5.3 completed ✔️
+- Lesson 5.4 in progress
+- Thought about idea for showcase project
+I would like to encourage @donDrey and @Juan Carlos Kuri Pinto to keep going! #30_days_udacity.
+---------------------------
