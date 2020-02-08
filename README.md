@@ -68,6 +68,13 @@ I would like to encourage @Andrey Belov and @Aleksandra Deis to keep going! #30_
 
 - Lesson 5.1-5.3 completed ✔️
 - Lesson 5.4 in progress
-- Thought about idea for showcase project
+- Thought about idea for project showcase
+I would like to encourage @donDrey and @Juan Carlos Kuri Pinto to keep going! #30_days_udacity.
+---------------------------
+
+07.02.2019 Day 12.
+
+- Read https://www.pyimagesearch.com/2019/04/08/openvino-opencv-and-movidius-ncs-on-the-raspberry-pi/
+- Read https://software.intel.com/en-us/articles/raspberry-pi-4-and-intel-neural-compute-stick-2-setup
 I would like to encourage @donDrey and @Juan Carlos Kuri Pinto to keep going! #30_days_udacity.
 ---------------------------
