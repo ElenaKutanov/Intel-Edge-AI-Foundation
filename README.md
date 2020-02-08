@@ -78,3 +78,9 @@ I would like to encourage @donDrey and @Juan Carlos Kuri Pinto to keep going! #3
 - Read https://software.intel.com/en-us/articles/raspberry-pi-4-and-intel-neural-compute-stick-2-setup
 I would like to encourage @donDrey and @Juan Carlos Kuri Pinto to keep going! #30_days_udacity.
 ---------------------------
+
+08.02.2019 Day 13.
+
+- Lesson 5.4 - 5.5 completed
+I would like to encourage @Parth Vyas and @Aleksandra Deis to keep going! #30_days_udacity.
+---------------------------
