@@ -81,6 +81,12 @@ I would like to encourage @donDrey and @Juan Carlos Kuri Pinto to keep going! #3
 
 08.02.2019 Day 13.
 
-- Lesson 5.4 - 5.5 completed
+- Lesson 5.4 - 5.5 completed ✔️
+I would like to encourage @Parth Vyas and @Aleksandra Deis to keep going! #30_days_udacity.
+---------------------------
+
+09.02.2019 Day 14.
+
+- Lesson 5.6 - 5.8 completed ✔️ I like this exercise :cat2: :dog2: :dancing-dog:
 I would like to encourage @Parth Vyas and @Aleksandra Deis to keep going! #30_days_udacity.
 ---------------------------
