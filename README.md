@@ -90,3 +90,9 @@ I would like to encourage @Parth Vyas and @Aleksandra Deis to keep going! #30_da
 - Lesson 5.6 - 5.8 completed ✔️ I like this exercise :cat2: :dog2: :dancing-dog:
 I would like to encourage @Parth Vyas and @Aleksandra Deis to keep going! #30_days_udacity.
 ---------------------------
+
+10.02.2019 Day 15.
+
+- Lesson 5.9 - 5.12 completed ✔️
+I would like to encourage @Juan Carlos Kuri Pinto and @Khush to keep going! #30_days_udacity.
+---------------------------
