@@ -96,3 +96,9 @@ I would like to encourage @Parth Vyas and @Aleksandra Deis to keep going! #30_da
 - Lesson 5.9 - 5.12 completed ✔️
 I would like to encourage @Juan Carlos Kuri Pinto and @Khush to keep going! #30_days_udacity.
 ---------------------------
+
+11.02.2019 Day 16.
+
+- Lesson 5.13 - 5.14 completed ✔️
+I would like to encourage @douglas_wayne and @Aleksandra Deis to keep going! #30_days_udacity.
+---------------------------
