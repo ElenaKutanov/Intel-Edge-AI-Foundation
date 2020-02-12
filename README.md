@@ -102,3 +102,9 @@ I would like to encourage @Juan Carlos Kuri Pinto and @Khush to keep going! #30_
 - Lesson 5.13 - 5.14 completed ✔️
 I would like to encourage @douglas_wayne and @Aleksandra Deis to keep going! #30_days_udacity.
 ---------------------------
+
+12.02.2019 Day 17.
+
+- Intel® Edge AI Foundation course completed :dance_4: :tada: :dance_4: :tada: :dance_4:
+I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_udacity.
+---------------------------
