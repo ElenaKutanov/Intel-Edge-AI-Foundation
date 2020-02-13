@@ -108,3 +108,11 @@ I would like to encourage @douglas_wayne and @Aleksandra Deis to keep going! #30
 - Intel® Edge AI Foundation course completed :dance_4: :tada: :dance_4: :tada: :dance_4:
 I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_udacity.
 ---------------------------
+
+13.02.2019 Day 18.
+
+- Reviewed the course
+- Checked quizzes
+- Trying to find the idea for project showcase
+I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_udacity.
+---------------------------
