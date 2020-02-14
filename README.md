@@ -116,3 +116,9 @@ I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_u
 - Trying to find the idea for project showcase
 I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_udacity.
 ---------------------------
+
+14.02.2019 Day 19.
+
+- Practiced Char-RNN
+I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_udacity.
+---------------------------
