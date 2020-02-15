@@ -122,3 +122,10 @@ I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_u
 - Practiced Char-RNN
 I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_udacity.
 ---------------------------
+
+15.02.2019 Day 20.
+
+- Read https://www.statnews.com/2020/02/13/federated-learning-safer-collaboration-health-research/
+- Emotional Intelligence Meeting #sg_spaic 
+I would like to encourage @Juan Carlos Kuri Pinto and @Khush to keep going! #30_days_udacity.
+---------------------------
