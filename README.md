@@ -129,3 +129,11 @@ I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_u
 - Emotional Intelligence Meeting #sg_spaic 
 I would like to encourage @Juan Carlos Kuri Pinto and @Khush to keep going! #30_days_udacity.
 ---------------------------
+
+16.02.2019 Day 21.
+
+- Videos from https://www.intel.com/content/www/us/en/healthcare-it/healthcare-overview.html
+I would like to encourage @Juan Carlos Kuri Pinto and @Khush to keep going! #30_days_udacity.
+---------------------------
+
+
