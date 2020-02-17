@@ -136,4 +136,8 @@ I would like to encourage @Juan Carlos Kuri Pinto and @Khush to keep going! #30_
 I would like to encourage @Juan Carlos Kuri Pinto and @Khush to keep going! #30_days_udacity.
 ---------------------------
 
+17.02.2019 Day 22.
 
+- Brainstorming. Found the Idea for project showcase :pandadance:
+I would like to encourage @Parth Vyas and @Aleksandra Deis to keep going! #30_days_udacity.
+---------------------------
