@@ -148,4 +148,11 @@ I would like to encourage @Parth Vyas and @Aleksandra Deis to keep going! #30_da
 I would like to encourage @Parth Vyas and @Aleksandra Deis to keep going! #30_days_udacity.
 ---------------------------
 
+19.02.2019 Day 24.
+
+- Started the project
+- Installing OpenVINO
+I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_udacity.
+---------------------------
+
 
