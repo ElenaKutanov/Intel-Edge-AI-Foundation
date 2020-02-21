@@ -161,3 +161,9 @@ I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_u
 I would like to encourage @Ankit Vashisht and @Bappi to keep going! #30_days_udacity.
 ---------------------------
 
+21.02.2020 Day 26.
+
+- Worked on the project
+I would like to encourage @Nimish Jain and @Anshu Trivedi to keep going! #30_days_udacity.
+---------------------------
+
