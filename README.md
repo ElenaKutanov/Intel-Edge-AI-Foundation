@@ -167,3 +167,9 @@ I would like to encourage @Ankit Vashisht and @Bappi to keep going! #30_days_uda
 I would like to encourage @Nimish Jain and @Anshu Trivedi to keep going! #30_days_udacity.
 ---------------------------
 
+22.02.2020 Day 27.
+
+- Worked on the project
+I would like to encourage @Juan Carlos Kuri Pinto and @Khush to keep going! #30_days_udacity.
+---------------------------
+
