@@ -179,3 +179,9 @@ I would like to encourage @Juan Carlos Kuri Pinto and @Khush to keep going! #30_
 I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_udacity.
 ---------------------------
 
+24.02.2020 Day 29.
+
+- Worked on the project
+I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_udacity.
+---------------------------
+
