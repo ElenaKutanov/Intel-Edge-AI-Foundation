@@ -185,3 +185,10 @@ I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_u
 I would like to encourage @Mariia and @Aleksandra Deis to keep going! #30_days_udacity.
 ---------------------------
 
+25.02.2020 Day 30. :dance_4: :tada: :dance_4: :tada: :dance_4:
+
+- The project completed :heavy_check_mark:
+- Filled out project showcase entry form  :heavy_check_mark:
+I would like to encourage @Mariia, @Aleksandra Deis, @Juan Carlos Kuri Pinto, @Khush, @Nimish Jain, @Anshu Trivedi, @Ankit Vashisht and @Bappi to keep going! #30_days_udacity.
+---------------------------
+
